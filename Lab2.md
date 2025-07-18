@@ -10,8 +10,6 @@
 
 ### Step 4: Change your Administrator account name
 
-The following screenshot demonstrates the Administrator account name being changed to "Administrator" within the profile settings.
-
 <img width="1920" height="1032" alt="Screenshot 2025-07-17 213325" src="https://github.com/user-attachments/assets/015df7ad-cf2e-42a8-83fe-bcb532b93c00" />
 
 ---
