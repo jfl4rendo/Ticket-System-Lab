@@ -4,6 +4,7 @@
 
 <img width="100%" alt="Freshdesk Default Support Email Activated" src="https://github.com/user-attachments/assets/8ec9f895-85fe-4fdc-bcfa-66aa8c9b2c8b" />
 
+
 ### Step 3: Create / Add a new agent
 
 <img width="100%" alt="Freshdesk New Agent Added" src="https://github.com/user-attachments/assets/cb9ec4ce-f39d-4593-b65c-74040eac2ef2" />
